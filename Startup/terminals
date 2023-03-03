@@ -1,0 +1,60 @@
+WHAT ARE TERMINALS
+    A terminal is a text input and output environment. It is a program that acts as a wrapper and allows us to enter commands that the computer processes.
+
+
+
+
+
+TERMINAL TYPES WINDOWS
+    - Command Prompt (CMD), 
+    - PowerShell and 
+    - Bash (Windows Subsystem for Linux (WSL))
+
+
+
+ACTIVATING WSL
+    -METHOD 1:
+        - https://learn.microsoft.com/en-us/windows/wsl/install
+
+
+    - METHOD 2:
+
+        - In the Windows search bar, type 'features' to bring up the Turn Windows Features on and off dialog. Scroll down and check Windows Subsystem for Linux.
+
+        - A PROMPT WOULD DISPLAY TO REBOOT
+
+        - AFTER REBOOT GO TO MICROSOFT STORE AND DOWNLOAD UBUNTU 
+
+
+IDE:
+    An IDE, or Integrated Development Environment, enables programmers to consolidate the different aspects of writing a computer program,and testing software applications.
+
+
+
+
+
+
+IDES Features -
+    - includes  a code editor
+    - a compiler or interpreter
+    - a debugger and other tools to manage code libraries,versions and project management
+
+
+
+
+Popular IDE's
+    - Virtual Studio Code: from micro-soft
+    - Eclipse : open source for JAVA and some other programming language
+    - Pycharm - An IDE mainly for python development, with support for web development frameworks like Django and flask
+
+
+
+Difference between IDE & Terminals
+    - it's used to interact with co mputer's operating system
+    -terminal is more of a tool system for system administrators 
+
+
+    terminal is a tool to interact with operating system and execute commands
+    IDE provides solution for software development
+    
+

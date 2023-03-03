@@ -1,0 +1,19 @@
+Method 1 (CMD / PowerShell):
+    - GO TO python.org/downloads click on download and install
+    - after installing, open your terminal and type in python
+    - it will show the current version of python installed on your windows
+
+
+Method2 :
+    - Open our linux terminal (ubuntu)
+    - sudo apt update
+    - sudo apt install python3 python3-pip
+    - python3 --version
+
+
+
+PIP :
+    - package manager for Python (just like we have npm for nodejs/js)
+
+
+

@@ -1,0 +1,9 @@
+open your search button on your pc.
+Type: system environment variables 
+Clicking on the Advanced system settings in the menu .
+Clicking on the Environment Variables button o​n the bottom right.
+
+In the System variables section which is below, selecting the Path variable and clicking on Edit. The next screen will show all the directories that are currently a part of the PATH variable.
+
+Clicking on New and entering Python’s install directory.
+reboot to save changes
